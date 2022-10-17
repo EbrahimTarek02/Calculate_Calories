@@ -16,4 +16,34 @@ Screenshots
 Home
 </h2>
 
-<img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+<p align = "center">
+<img 
+   width="200"
+   src="https://github.com/EbrahimTarek02/Calculate_Calories/blob/main/Screenshots/Screenshot_1666036100.png"
+   >
+</p>
+
+<h2 align="center">
+(Lose / Maintain / Gain) Weight
+</h2>
+
+<p align = "center">
+<img
+    width="200"
+    src="https://github.com/EbrahimTarek02/Calculate_Calories/blob/main/Screenshots/Screenshot_1666036151.png"
+    > <img
+    width="200"
+    src="https://github.com/EbrahimTarek02/Calculate_Calories/blob/main/Screenshots/Screenshot_1666036205.png"
+    >
+</p>
+
+<h2 align="center">
+Result
+</h2>
+
+<p align = "center">
+<img 
+   width="200"
+   src="https://github.com/EbrahimTarek02/Calculate_Calories/blob/main/Screenshots/Screenshot_1666036227.png"
+   >
+</p>
